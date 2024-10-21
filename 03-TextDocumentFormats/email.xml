@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+ <sender>
+  <name> Mikołaj Pasieka </name>
+  </sender>
+  <email> pasiekamikolaj01@gmail.com </email>
+ <recipient> 
+  <name>Micheal Wyrwol</name>
+  <email> wyrwolinski@gmail.com </email>
+ </recipient>
+ <subject> splata długu</subject>
+ <messagebody>  </messagebody>
+
+</email>

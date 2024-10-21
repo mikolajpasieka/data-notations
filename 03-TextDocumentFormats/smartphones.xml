@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <<smartphone brand="Apple" model="Iphone 12" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">2815</batteryCapacity>
+            <storage unit="GB">64</storage>
+            <camera unit="MP">12</camera>
+        </specs>
+        <price currency="USD">499</price>
+    </smartphone>
 </smartphones>
