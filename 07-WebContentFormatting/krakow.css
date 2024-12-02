@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    border-width: 0,1mm;
+}
+
+th {
+    background-color: darkgreen;
+    color: white;
+    padding: 12px;
+}
+td {
+    padding: 12px;
+    COLOR: blue;
+}
+
+table:hover{
+    color: YELLOW; 
+}
+
+.layout-one-column {
+    width: 25%;
+}
+
+.layout-two-column
+{
+    width: 40%;
+}
